@@ -45,3 +45,6 @@ node index.js
   * theme.sass
     * navbar section
     * cards section
+
+#### Greetings
+Greetings from a friend
